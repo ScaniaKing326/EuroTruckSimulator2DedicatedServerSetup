@@ -11,7 +11,7 @@ How to set up ?
 2. Install a dedicated server software from Steam. Because this tool isnt on Steam directly you must go to SteamDB website (https://steamdb.info/app/1948160) and click install.
 
 
-3. Download files from this respository
-4. Move files to %user%/Documents/Euro Truck Simulator 2
+3. Download files from this respository in a zip archive.
+4. Extract files and move files to %user%/Documents/Euro Truck Simulator 2
 5. Start the server
 6. Enjoy !
