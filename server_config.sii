@@ -1,0 +1,33 @@
+SiiNunit
+{
+server_config : _nameless.1a7.80f7.7240 {
+ lobby_name: "Euro Truck Simulator 2 Dedicated Server"
+ description: "Euro Truck Simulator 2 Dedicated Server"
+ welcome_message: ""
+ password: ""
+ max_players: 8
+ max_vehicles_total: 100
+ max_ai_vehicles_player: 50
+ max_ai_vehicles_player_spawn: 50
+ connection_virtual_port: 100
+ query_virtual_port: 101
+ connection_dedicated_port: 27015
+ query_dedicated_port: 27016
+ server_logon_token: ""
+ player_damage: true
+ traffic: true
+ hide_in_company: false
+ hide_colliding: false
+ force_speed_limiter: true
+ mods_optioning: false
+ timezones: 2
+ service_no_collision: true
+ in_menu_ghosting: true
+ name_tags: true
+ friends_only: false
+ show_server: true
+ moderator_list: 1
+ moderator_list[0]: [Steam User ID]
+}
+
+}
