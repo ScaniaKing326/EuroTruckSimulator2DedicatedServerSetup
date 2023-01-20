@@ -29,7 +29,7 @@ How to secure your server ?
 
 3. Set what is alloved and what is not.
 
-4. Deal with every rule breaker with np mercy.
+4. Deal with every rule breaker with no mercy.
 
 5. Use official server software created by game creators rather than third party software.
 
