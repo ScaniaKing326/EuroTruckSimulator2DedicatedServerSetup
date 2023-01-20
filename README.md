@@ -27,12 +27,12 @@ How to secure your server ?
 
 2. Never share server ID or server adress to anyone that you dont know or trust.
 
-3. Set what is alloved and what is not.
+3. Set rules so player know what is alloved and what is not. Deal with anyone that brake rules !
 
-4. Deal with every rule breaker with no mercy.
+4. Have high security messures on system that host server. In case of security issue dont allow playing on server until its fixed.
 
 5. Use official server software created by game creators rather than third party software.
 
 7. Allov and respect use of VPN. NEVER block players with VPN.
 
-8. Back up server and all data frequently.
+8. Back up server and all server data frequently.
