@@ -36,3 +36,7 @@ How to secure your server ?
 7. Allov and respect use of VPN. NEVER block players with VPN.
 
 8. Back up server and all server data frequently.
+
+9. Always update server to the latest version.
+
+10. NEVER allow players with cracked game !
