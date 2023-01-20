@@ -15,6 +15,4 @@ How to set up ?
 
 4. Extract files and move files to %user%/Documents/Euro Truck Simulator 2/
 
-5. Start the server
-
-6. Enjoy !
+5. Start the server and enjoy !
