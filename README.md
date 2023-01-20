@@ -18,3 +18,19 @@ How to set up ?
 4. Extract files and move files to %user%/Documents/Euro Truck Simulator 2/
 
 5. Start the server and enjoy !
+
+SECURE YOUR SERVER ! NEVER play on server that was not properly secured ! Why ? You risk cheaters/trolls/griefers/hackers and much much more ! Dont risk it and stay secure !
+
+How to secure your server ?
+
+1. Set a pasword or turn on whitelist
+
+2. Never share server ID (temporary or permanent) to anyone that you dont know or trust.
+
+3. Set what is alloved and what is not 
+
+4. Deal with every rule breaker with 0 mercy
+
+5. Use official server software created by game creators rather than third party software
+
+7. Allov and respect players that they use VPN .
