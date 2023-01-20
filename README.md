@@ -29,7 +29,7 @@ How to secure your server ?
 
 3. Set rules so player know what is alloved and what is not. Deal with anyone that brake rules !
 
-4. Have high security messures on system that host server. In case of security issue dont allow playing on server until its fixed.
+4. Have high security messures on system that host server.
 
 5. Use official server software created by game creators rather than third party software.
 
