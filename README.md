@@ -19,20 +19,20 @@ How to set up ?
 
 5. Start the server and enjoy !
 
-SECURE YOUR SERVER ! NEVER play on server that was not properly secured ! Why ? You risk cheaters/trolls/griefers/hackers and much much more ! Dont risk it and stay secure !
+SECURE YOUR SERVER ! NEVER play on server that is not properly secured ! Why ? You risk cheaters/trolls/griefers/hackers/exploiters and much much more ! Dont risk it and stay secure !
 
 How to secure your server ?
 
-1. Set a pasword or turn on whitelist
+1. Set a pasword or turn on whitelist.
 
-2. Never share server ID or sever adress to anyone that you dont know or trust.
+2. Never share server ID or server adress to anyone that you dont know or trust.
 
-3. Set what is alloved and what is not 
+3. Set what is alloved and what is not.
 
-4. Deal with every rule breaker with 0 mercy
+4. Deal with every rule breaker with np mercy.
 
-5. Use official server software created by game creators rather than third party software
+5. Use official server software created by game creators rather than third party software.
 
-7. Allov and respect use of VPN . NEVER block players with VPNs.
+7. Allov and respect use of VPN. NEVER block players with VPN.
 
-8. Allow on your server only people that has tested and verified antivirus and firewall sotware.You should not allow to connect someone with no or unknown security software. 
+8. Back up server and all data frequently.
