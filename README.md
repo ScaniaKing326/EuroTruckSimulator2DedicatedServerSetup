@@ -1,22 +1,15 @@
-# ETS2DedicatedServerConfiguration
-Configuration files for Euro Truck Simulator 2 Dedicated Server
+# EuroTruckSimulator2DedicatedServerSetup
 
-Use this files to set up a dedicated server for Euro Truck Simulator 2
+A set of files required to set up a dedicated server for Euro Truck Simulator 2.
 
-How to set up ?
+How to use this ?
 
- 1. Buy and install copy of game on steam ! Please be aware that cracked copy of Euro Truck Simulator 2 will NOT work ! https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2
+First to all this will work only with Steam if you use anything else it will not work ! Any issues regarding that it dont work with game or server that is installed outside of Steam will be ignored ! There is no reason to use SteamCMD since you can add dedicated server to your Steam library.
 
+1. Install dedicated server by clicking install on this website https://steamdb.info/app/1948160/
 
- 2. Install a dedicated server software from Steam. 
+2. Download files from this respository and extract them to Euro Truck Simulator 2 folder (location depends on system).
 
-    Because this tool cant be find on Steam directly best way to install this tool is by using SteamDB website. (https://steamdb.info/app/1948160) Just go on the website and click install when pop-up show up click [Open in Steam Client] and hit install when Steam window shows up. Steam will start downloading instantly. Download size is around 250 MB. Other way to install is by using SteamCMD but this way is not recommended because it can be harder to set up and keep updated.
+3. Start dedicated server by clicking Start on steam. Server console windows should open.
 
-
-3. Download files from this respository.
-
-4. Extract files and move files to %user%/Documents/Euro Truck Simulator 2/
-
-5. Start the server and enjoy !
-
-SECURE YOUR SERVER ! Why ? You risk cheaters/trolls/griefers/hackers/exploiters and much much more ! Dont risk it and secure your server and keep on trucking !
+Thats it !
