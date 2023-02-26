@@ -19,24 +19,4 @@ How to set up ?
 
 5. Start the server and enjoy !
 
-SECURE YOUR SERVER ! NEVER play on server that is not properly secured ! Why ? You risk cheaters/trolls/griefers/hackers/exploiters and much much more ! Dont risk it and stay secure !
-
-How to secure your server ?
-
-1. Set a pasword or turn on whitelist.
-
-2. Never share server ID or server adress to anyone that you dont know or trust.
-
-3. Set rules so player know what is alloved and what is not. Deal with anyone that brake rules !
-
-4. Have high security messures on system that host server.
-
-5. Use official server software created by game creators rather than third party software.
-
-7. Allov and respect use of VPN. NEVER block players with VPN.
-
-8. Back up server and all server data frequently.
-
-9. Always update server to the latest version.
-
-10. NEVER allow players with cracked game !
+SECURE YOUR SERVER ! Why ? You risk cheaters/trolls/griefers/hackers/exploiters and much much more ! Dont risk it and secure your server and keep on trucking !
